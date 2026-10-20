@@ -1,0 +1,7 @@
+# Training + export + verification
+torch>=2.2
+torchvision>=0.17
+numpy>=1.22
+pillow>=9.0
+onnx>=1.15
+onnxruntime>=1.15
